@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from "react";
-import outsideIcon from "../../assets/icons/Outside.png";
+import outsideIcon from "../../assets/icons/outside.png";
 import radioIcon from "../../assets/icons/radio.png";
 import downArrow from "../../assets/icons/down-arrow.png";
 import type { Currency, Discount, PriceType } from "../../types";
